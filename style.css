@@ -9,6 +9,7 @@ body{
     padding-top: 280px;
     text-align: center;
     color: white;
+    font-size: 20px;
     background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -57,12 +58,13 @@ body{
 .input-amount{
     color: gray;
     background-color: rgb(249, 249, 249);
-    padding-left: 30%;
+    margin-left: 450px;
+    margin-right: 450px;
     margin-bottom: 30px;
     height: 50px;
     border: none;
     outline: none;
-    font-weight: 400;
+    border-bottom: 2px solid gray;
 }
 #donate-plan-second{
     color: gray;

@@ -1,8 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 .top-section{
     width: 100%;
     font-family: 'Poppins', sans-serif;
     height: 650px;
-    padding-top: 300px;
+    padding-top: 280px;
     text-align: center;
     color: white;
     background-image: url(images/donation6.jpg);
@@ -36,7 +40,7 @@
     border: 3px solid gray;
     border-radius: 5px;
     padding-top: 40px;
-    background-color: rgb(249, 249, 249);
+    background-color: rgb(240, 225, 225);
 }
 .amount{
     color: gray;
@@ -54,6 +58,7 @@
     color: gray;
     background-color: rgb(249, 249, 249);
     padding-left: 30%;
+    margin-bottom: 30px;
     height: 50px;
     border: none;
     outline: none;
@@ -92,6 +97,19 @@ padding-left: 10px;
 padding-top: 50px;
 border-radius: 7px;
 }
+.second-donate-now{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+.second-donate-now-aline{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
 .footer{
     text-align: center;
     background-color: black;

@@ -109,7 +109,39 @@ border-radius: 7px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
-
+.subscribe-button{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.email-field{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(240, 225, 225);
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 10px;
+    border: none;
+    font-size: 18px;
+    
+}
+.subscriber-button{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: rgb(236, 104, 104);
+    border-radius: 5px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+}
 .footer{
     text-align: center;
     background-color: black;
